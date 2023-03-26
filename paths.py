@@ -36,3 +36,6 @@ PATH = {
     'CHECKPOINTS': '/home/a.dobrenkii/Projects/Kaggle/DataScienceBowl2K17/data',
     'EVALUATION': '/home/a.dobrenkii/Projects/Kaggle/DataScienceBowl2K17/I/LungCancerDetection/support/evaluationScript'
 }
+scm1_project
+yash
+lung cancer detection
